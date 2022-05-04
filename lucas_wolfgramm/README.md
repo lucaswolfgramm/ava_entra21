@@ -4,6 +4,7 @@
 
 No quadro kanban encontramos algumas separações e cartões das atividades que a equipe irá e está atuando.
 
+![alt text](boardKanban.webp)
 ## Ferramentas
 
 *Trello*
